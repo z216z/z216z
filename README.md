@@ -9,7 +9,13 @@
   </a>
 </div>
 
-<div align="center">
+### :man_technologist: About Me
+I am a MCs Data Science and Engineering student at PoliTo and a VideoGames passionate. 
+
+- :hammer: Languages, Libraries and Tools
+
+
+ <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
@@ -22,8 +28,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
-  
-  
- 
-  
 </div>
+
+- :computer: Relevant Projects: 
+1) Incremental Learning in Semantic Segmentation
+2) Abstractive-Extractive Summarization via RL approach
+3) Credit Cards Default Prediction
+4) Wine Quality Prediction
+5) Networks Dynamics Exploration
