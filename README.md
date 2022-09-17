@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=z216z&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### :man_technologist: About Me
 I am a MCs Data Science and Engineering student at PoliTo and a VideoGames passionate. 
 
