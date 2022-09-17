@@ -4,9 +4,9 @@
 </div>
 
 <div id="badges" align="center">
-  <href='https://in.linkedin.com/in/valerio-zingarelli-05a866182'>
+  <a href='https://in.linkedin.com/in/valerio-zingarelli-05a866182'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </href>
+  </a>
 </div>
 
 <div align="center">
