@@ -14,7 +14,7 @@
 </div>
 
 ### :man_technologist: About Me
-I am a MCs Data Science and Engineering student at PoliTo and a VideoGames passionate. 
+I am a MSc Data Science and Engineering student at PoliTo and a VideoGames passionate. 
 
 - :hammer: Languages, Libraries and Tools
 
