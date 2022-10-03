@@ -35,8 +35,8 @@ I am a MSc Data Science and Engineering student at PoliTo and a VideoGames passi
 </div>
 
 - :computer: Relevant Projects: 
-1) Incremental Learning in Semantic Segmentation
-2) Abstractive-Extractive Summarization via RL approach
-3) Credit Cards Default Prediction
-4) Wine Quality Prediction
-5) Networks Dynamics Exploration
+1) [Incremental Learning in Semantic Segmentation](https://github.com/z216z/Semi-Supervised-Incremental-Semantic-Segmentation.git)
+2) [Abstractive-Extractive Summarization via RL approach](https://github.com/z216z/Abstractive-Extractive-Summarization.git)
+3) [Credit Cards Default Prediction](https://github.com/z216z/Credit-Card-Default-Prediction.git)
+4) [Wine Quality Prediction](https://github.com/z216z/Wine-quality-regression.git)
+5) [Networks Dynamics Exploration](https://github.com/z216z/Networks-Dynamics-and-Learning.git)
